@@ -10,6 +10,8 @@ Com uma identidade visual moderna e foco na experiência do usuário, o projeto 
 🔗 **Acesse o site:**
 https://shwnzzzz.github.io/MenuGo-ProjectShw/
 
+<img src="MenuGo.png" width="80%">
+
 ## ✨ Funcionalidades
 
 - 🏠 **Página inicial:** apresentação do restaurante e sua identidade visual.
