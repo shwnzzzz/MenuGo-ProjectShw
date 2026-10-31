@@ -7,7 +7,8 @@ Com uma identidade visual moderna e foco na experiência do usuário, o projeto 
 
 ## 🌐 Demonstração online
 
-🔗 **Acesse o site:** https://leading-red-blqeh04n.edgeone.dev/
+🔗 **Acesse o site:**
+https://shwnzzzz.github.io/MenuGo-ProjectShw/
 
 ## ✨ Funcionalidades
 
