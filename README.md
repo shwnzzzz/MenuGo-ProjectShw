@@ -1,17 +1,55 @@
-# 🍔 MenuGo - Projeto de Cardápio digital e pedidos online.
+# 🍔 MenuGo — Cardápio Digital
 
-Uma aplicação web responsiva com tema do restaurante indicado, construída com HTML5, CSS3 e JavaScript. Este projeto apresenta um design limpo com animações suaves, interface simples e navegação intuitiva.
+### O sabor que vai até você!
 
-## 🌐 Visualize o projeto:
+O **MenuGo** é um projeto de landing page para restaurantes, desenvolvido com o objetivo de apresentar pratos, facilitar o acesso ao cardápio e proporcionar uma experiência simples e agradável aos clientes.
+Com uma identidade visual moderna e foco na experiência do usuário, o projeto reúne apresentação do restaurante, pratos em destaque e avaliações de clientes em uma única página.
 
-**[Ver Projeto Online]("Link do GitHub")**
+## 🌐 Demonstração online
 
-## 🛠️ Tecnologias Utilizadas
+🔗 **Acesse o site:** https://leading-red-blqeh04n.edgeone.dev/
 
-- **HTML5**: Marcação semântica
-- **CSS3**: Estilização (Interface)
-- **JavaScript**: Funcionalidade interativa
-- **jQuery**: Manipulação DOM e manipulação de eventos
-- **ScrollReveal**: Animações de scroll
-- **Font Awesome**: Ícones
-- **Google Fonts**: Fontes
+## ✨ Funcionalidades
+
+- 🏠 **Página inicial:** apresentação do restaurante e sua identidade visual.
+- 🍔 **Cardápio digital:** exibição dos pratos em destaque.
+- 💰 **Preços:** apresentação dos valores dos produtos.
+- ⭐ **Avaliações:** seção com comentários e experiências dos clientes.
+- 📱 **Contato:** acesso rápido às opções de pedido.
+- 🛒 **Chamada para pedidos:** botões estratégicos para incentivar os clientes a realizarem seus pedidos.
+
+## 🛠️ Tecnologias utilizadas
+
+- HTML5 — Estruturação do site.
+- CSS3 — Estilização e identidade visual.
+- JavaScript — Interatividade e funcionalidades.
+
+## 🎨 Design e experiência do usuário
+
+O MenuGo foi desenvolvido com foco em uma experiência visual agradável, priorizando:
+
+- Interface moderna e intuitiva.
+- Organização visual do cardápio.
+- Destaque para imagens e preços dos produtos.
+- Navegação simples.
+- Experiência direcionada à conversão de visitantes em clientes.
+
+## 🎯 Objetivo do projeto
+
+Este projeto foi desenvolvido como parte do meu portfólio de Desenvolvimento Web e UI/UX Design, com o propósito de aplicar conhecimentos de desenvolvimento front-end, organização de interfaces e experiência do usuário.
+
+A proposta é demonstrar como uma landing page pode ajudar restaurantes a apresentar seus produtos e facilitar o contato com seus clientes.
+
+## 👨‍💻 Desenvolvedor
+
+**ShwDevs**
+
+Estudante de Engenharia de Software | Desenvolvedor Mobile em formação | UI/UX Designer.
+
+---
+
+<p align="center">
+  Desenvolvido com ❤️ por <strong>ShwDevs</strong>
+  <br><br>
+  <strong>MenuGo — Mais sabor, mais praticidade e tudo do seu jeito!</strong>
+</p>
