@@ -45,9 +45,7 @@ A proposta é demonstrar como uma landing page pode ajudar restaurantes a aprese
 
 ## 👨‍💻 Desenvolvedor
 
-**ShwDevs**
-
-Estudante de Engenharia de Software | Desenvolvedor Mobile em formação | UI/UX Designer.
+**ShwDevs** Estudante de Engenharia de Software | Desenvolvedor Mobile em formação | UI/UX Designer.
 
 ---
 
