@@ -1,4 +1,4 @@
-# 🍔 MenuGo — Cardápio Digital
+# 🍔 ⎯ MenuGo — Cardápio Digital
 
 ### O sabor que vai até você!
 
